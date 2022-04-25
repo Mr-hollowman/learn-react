@@ -1,0 +1,11 @@
+.open{
+    width: 500px;
+    color: white;
+    background-color: black;
+    position: fixed;
+    top:400px;
+    right:500px;
+}
+.close{
+    display: none;
+}
