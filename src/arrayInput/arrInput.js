@@ -10,6 +10,7 @@ function ArrInput() {
             <button onClick={()=>setOutput(!output)}>display</button>
             <button onClick={()=>setInp(prev)=>({...prev,inp2})</div>}>change</button>
             {output?inp:''}
+            fjdsaf
         </div>
     );
 }
