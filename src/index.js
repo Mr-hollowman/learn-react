@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './App'
-import ArrInput from './arrayInput/arrInput';
+import Comp from './Life/comp';
 
-ReactDOM.render(<ArrInput />,document.getElementById('root'));
+ReactDOM.render(<Comp></Comp>,document.getElementById('root'));

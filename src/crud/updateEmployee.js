@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, {useEffect, useState} from 'react';
 import { Link } from 'react-router-dom';
 
-function UpdateEmployee(props) {
+function UpdateEmployee(){
     const [empName,setEmpname]=useState();
     const [empSalary,setSalary]=useState();
     const [empAge,setAge]=useState();
@@ -21,7 +21,7 @@ const updateEmployee=()=>{
         <div>
             <input value={empName} onChange={(e)=>setEmpname(e.target.value)}></input>
             <input type="number" value={empSalary} onChange={(e)=>setSalary(e.target.value)}></input>
-            <input type={"number" }value={empAge} onChange={(e)=>setAge(e.target.value)}></input>
+            <input type={"number"}value={empAge} onChange={(e)=>setAge(e.target.value)}></input>
             <button onClick={updateEmployee}>Update</button>
             <Link to='/view'><button>View Employees</button></Link>
         </div>
