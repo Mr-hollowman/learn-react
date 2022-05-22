@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import axios from 'axios';
 
 
-function AddEmployee(props) {
+function AddEmployee() {
     const [empName,setEmpname]=useState();
     const [empSalary,setEmpsalary]=useState();
     const [empAge,setEmpage]=useState();

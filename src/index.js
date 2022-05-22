@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Comp from './Life/comp';
+import Myc from './hoc/myc';
 
-ReactDOM.render(<Comp></Comp>,document.getElementById('root'));
+ReactDOM.render(<Myc></Myc>,document.getElementById('root'));
+

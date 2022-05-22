@@ -1,6 +1,6 @@
 import React from 'react';
 
-function RefDemo(props) {
+function RefDemo() {
     const inputText=React.useRef();
     const cgColor=()=>{
         inputText.current.style.background='red';

@@ -4,7 +4,7 @@ import AddEmployee from './AddEmployee';
 import ListEmployee from './ListEmployee';
 import UpdateEmployee from './updateEmployee';
 
-function CrudRouter(props) {
+function CrudRouter() {
     return (
         <BrowserRouter>
         <div>
