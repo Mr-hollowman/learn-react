@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mrhollowman/static/css/main.9cacda97.css",
-    "main.js": "/mrhollowman/static/js/main.eda9bce6.js",
-    "static/js/787.ec704a7a.chunk.js": "/mrhollowman/static/js/787.ec704a7a.chunk.js",
-    "static/media/mobile.jpg": "/mrhollowman/static/media/mobile.f91ceb1bf32f129af375.jpg",
-    "static/media/arr.jpg": "/mrhollowman/static/media/arr.8668e541374047349724.jpg",
-    "static/media/playstore.png": "/mrhollowman/static/media/playstore.93e8d43df9b4c84e42f1.png",
-    "index.html": "/mrhollowman/index.html",
-    "main.9cacda97.css.map": "/mrhollowman/static/css/main.9cacda97.css.map",
-    "main.eda9bce6.js.map": "/mrhollowman/static/js/main.eda9bce6.js.map",
-    "787.ec704a7a.chunk.js.map": "/mrhollowman/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/project/static/css/main.5add43a8.css",
+    "main.js": "/project/static/js/main.487ca108.js",
+    "static/js/787.ec704a7a.chunk.js": "/project/static/js/787.ec704a7a.chunk.js",
+    "static/media/mobile.jpg": "/project/static/media/mobile.f91ceb1bf32f129af375.jpg",
+    "static/media/arr.jpg": "/project/static/media/arr.8668e541374047349724.jpg",
+    "static/media/playstore.png": "/project/static/media/playstore.93e8d43df9b4c84e42f1.png",
+    "index.html": "/project/index.html",
+    "main.5add43a8.css.map": "/project/static/css/main.5add43a8.css.map",
+    "main.487ca108.js.map": "/project/static/js/main.487ca108.js.map",
+    "787.ec704a7a.chunk.js.map": "/project/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cacda97.css",
-    "static/js/main.eda9bce6.js"
+    "static/css/main.5add43a8.css",
+    "static/js/main.487ca108.js"
   ]
 }
